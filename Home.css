@@ -1,0 +1,35 @@
+h1 {
+    color:black;
+    font-family:Georgia;
+    font-size:200%;
+    text-align:center;
+    margin-bottom:100px;
+    margin-top: 50px;
+
+}
+.menu { 
+    text-align: center;
+    float: center;
+    width: 100%;   
+}
+a#liMe {text-decoration: none;
+        color: white;}
+
+li#liMe {
+        display: inline;
+        background-color: black;
+        padding: 0.6em 0.6em;
+        margin: 100px;
+        color: white;
+
+}
+.pimg {
+    padding-top: 100px;    
+}
+p#intro {
+    float: left;
+    color:black;
+    font-family:Georgia;
+    font-size: 25px;
+    padding-left: 250px;
+}
